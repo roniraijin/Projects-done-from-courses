@@ -1,5 +1,5 @@
 #this is my attempt at creating a higher or lower game using limited data
-#i learned about the global keyword during this which helped me actually complete this prokect
+#i learned about the global keyword during this which helped me actually complete this project
 
 
 from game_data import data
